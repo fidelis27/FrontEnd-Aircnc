@@ -4,11 +4,10 @@ import logo from './assets/logo.svg'
 
 import Routes from './routes'
 
-
-function App() {
-  
+function App() {  
   return (
-    <div className="container">
+    <div className="container">    
+              
       <img src={logo} alt="AirCnC"/>
       <div className="content">
         <Routes/>

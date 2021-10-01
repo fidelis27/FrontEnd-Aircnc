@@ -1,0 +1,44 @@
+.container-book {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    margin: 0 30px;
+  }
+
+  .label {
+    font-size: 22px;
+    font-weight: 'bold';
+    color: #444;
+    margin-bottom: 8px;
+  }
+
+  .input {    
+    border-color: #ddd;
+    border-radius: 2px;
+    padding: 0 20px;
+    font-size: 16px;
+    color: #444;
+    height: 44px;
+    margin-bottom: 20px;
+    width: 100%;
+  };
+
+  .button{
+    height: 42px;
+    background-color: #f05a5b;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2px;   
+    cursor: pointer;
+  }
+
+  .cancelButton {
+    background-color: '#ccc';
+    margin-top: 10px;
+  }
+
+  .buttonText {
+    color: '#fff';
+    font-weight: 'bold';
+    font-size: 16px;
+  }

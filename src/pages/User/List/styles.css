@@ -1,0 +1,28 @@
+.container-list {
+  flex: 1;
+}
+
+.logo {
+  height: 42; 
+  align-self: "center";
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.button {
+  border: 0;
+  border-radius: 2px;
+  width: 100%;
+  height: 42px;
+  padding: 0 20px;
+  font-size:16px;
+  font-weight: bold;
+  background: #f05a5b;
+  color: #fff;
+  cursor: pointer;  
+  font-weight: bold;
+  font-size: 16px;
+  text-align: center;  
+}
+
+
